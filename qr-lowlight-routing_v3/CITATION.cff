@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Brightness-Aware QR Code Detection under Low Light: code and data"
+authors:
+  - family-names: Mahmoudian
+    given-names: Negar
+    orcid: "https://orcid.org/0009-0007-2301-8157"
+    affiliation: "Universiti Malaysia Sarawak (UNIMAS)"
+  - family-names: Tan
+    given-names: Ping Ping
+    affiliation: "Universiti Malaysia Sarawak (UNIMAS)"
+  - family-names: Chai
+    given-names: Soo See
+    affiliation: "Universiti Malaysia Sarawak (UNIMAS)"
+license: MIT
+repository-code: "https://github.com/<your-username>/qr-lowlight-routing"
+date-released: 2026-10-27
